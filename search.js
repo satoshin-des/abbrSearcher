@@ -6,6 +6,7 @@ fetch('data.json')
         return response.json();
     })
     .then(data => {
+        data.sort((a, b) => a.abbr.toLowerCase().localeCompare(b.abbr.toLowerCase()));
         abbreviationData = data;
     })
     .catch(error => {
