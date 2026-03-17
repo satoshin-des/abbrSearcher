@@ -2,45 +2,56 @@
   {
     "abbr": "ASAP",
     "full": "As Soon As Possible",
+    "meaning": "できるだけ早く"
   },
   {
     "abbr": "DL",
-    "full": "download"
+    "full": "download",
+    "meaning": "ダウンロード"
   },
   {
     "abbr": "WC",
-    "full": "Water Closet"
+    "full": "Water Closet",
+    "meaning": "トイレ"
   },
   {
     "abbr": "GL",
-    "full": "General Linear group"
+    "full": "General Linear group",
+    "meaning": "一般線型群"
   },
   {
     "abbr": "SL",
-    "full": "Special Linear group"
+    "full": "Special Linear group",
+    "meaning": "特殊線形群"
   },
   {
     "abbr": "LLL",
-    "full": "Lenstra-Lenstr-Lovasz"
+    "full": "Lenstra-Lenstr-Lovasz",
+    "meaning": "LLLアルゴリズム"
   },
   {
     "abbr": "HKZ",
-    "full": "Hermite-Korkine-Zolotareff"
+    "full": "Hermite-Korkine-Zolotareff",
+    "meaning": "HKZアルゴリズム"
   },
   {
     "abbr": "BKZ",
-    "full": "Blocked Korkine-Zolotareff"
+    "full": "Blocked Korkine-Zolotareff",
+    "meaning": "BKZアルゴリズム"
   },
   {
     "abbr": "KZ",
-    "full": "Korkine-Zolotareff"
+    "full": "Korkine-Zolotareff",
+    "meaning": "HKZアルゴリズム"
   },
   {
     "abbr": "M",
-    "full": "Matrix"
+    "full": "Matrix",
+    "meaning": "行列"
   },
   {
     "abbr": "GW",
-    "full": "Golden Wind"
+    "full": "Golden Wind",
+    "meaning": "黄金の風"
   },
 ]
