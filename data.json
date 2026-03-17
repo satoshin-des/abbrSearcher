@@ -328,5 +328,25 @@
     "abbr": "pJR",
     "full": "proto-Japonic Ryukyuan",
     "keyword": "日琉祖語"
+  },
+  {
+    "abbr": "GH",
+    "full": "Gaussian Heuristic",
+    "keyword": "ガウスのヒューリスティック"
+  },
+  {
+    "abbr": "SVP",
+    "full": "Shortest Vector Problem",
+    "keyword": "最短ベクトル問題"
+  },
+  {
+    "abbr": "OJ",
+    "full": "Old Japanese",
+    "keyword": "中古日本語"
+  },
+  {
+    "abbr": "PaaS",
+    "full": "Platform as a Service",
+    "keyword": "PaaS"
   }
 ]
