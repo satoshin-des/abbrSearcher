@@ -79,4 +79,24 @@
     "full": "Arithmetic Mean Geometric Mean",
     "meaning": "相加相乗平均（の不等式）"
   },
+  {
+    "abbr": "AP",
+    "full": "Arithmetic Progression",
+    "meaning": "等差数列"
+  },
+  {
+    "abbr": "GP",
+    "full": "Geometric Progression",
+    "meaning": "等比数列"
+  },
+  {
+    "abbr": "P",
+    "full": "Proposition",
+    "meaning": "命題"
+  },
+  {
+    "abbr": "T",
+    "full": "Theorem",
+    "meaning": "定理"
+  },
 ]
