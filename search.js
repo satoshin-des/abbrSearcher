@@ -14,7 +14,7 @@ fetch('data.json')
     });
 
 function performSearch() {
-    const query = document.getElementById('searchInput').value.trim();
+    const query = document.getElementById('searchInput').value.toLowerCase().trim();
     const resultsContainer = document.getElementById('resultsContainer');
     
     // 前回の検索結果をクリア
