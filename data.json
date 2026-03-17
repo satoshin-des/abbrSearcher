@@ -353,5 +353,20 @@
     "abbr": "COVID",
     "full": "Coronavirus disease",
     "keyword": "コロナウイルス疾患"
+  },
+  {
+    "abbr": "WHO",
+    "full": "World Health Organization",
+    "keyword": "世界保健機関"
+  },
+  {
+    "abbr": "GB",
+    "full": "Goebner basis",
+    "keyword": "グレブナー基底"
+  },
+  {
+    "abbr": "CVP",
+    "full": "Closest Vector Problem",
+    "keyword": ""
   }
 ]
