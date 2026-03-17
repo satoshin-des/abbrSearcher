@@ -308,5 +308,10 @@
     "abbr": "NHK",
     "full": "Nippon Hoso Kyokai",
     "keyword": "日本放送協会"
+  },
+  {
+    "abbr": "VC",
+    "full": "Visual C",
+    "keyword": "Visual C"
   }
 ]
