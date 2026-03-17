@@ -208,5 +208,20 @@
     "abbr": "WS",
     "full": "Work Shop",
     "meaning": "ワークショップ"
+  },
+  {
+    "abbr": "FPA",
+    "full": "Float Point Arithmetic",
+    "meaning": "浮動小数点演算"
+  },
+  {
+    "abbr": "HSP",
+    "full": "Hot Soup Processor",
+    "meaning": "プログラミング言語の1つ"
+  },
+  {
+    "abbr": "SaaS",
+    "full": "Software as a Service",
+    "meaning": "サービスとしてのソフトウェア"
   }
 ]
