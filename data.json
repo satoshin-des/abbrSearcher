@@ -313,5 +313,20 @@
     "abbr": "VC",
     "full": "Visual C",
     "keyword": "Visual C"
+  },
+  {
+    "abbr": "MVR",
+    "full": "Mid Vowel Raising",
+    "keyword": "中段母音上昇"
+  },
+  {
+    "abbr": "pJ",
+    "full": "proto-Japonic",
+    "keyword": "日本祖語"
+  },
+  {
+    "abbr": "pJR",
+    "full": "proto-Japonic Ryukyuan",
+    "keyword": "日琉祖語"
   }
 ]
