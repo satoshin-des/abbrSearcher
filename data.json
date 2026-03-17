@@ -74,4 +74,9 @@
     "full": "Science Fiction",
     "meaning": "SF"
   },
+  {
+    "abbr": "AM-GM",
+    "full": "Arithmetic Mean Geometric Mean",
+    "meaning": "相加相乗平均（の不等式）"
+  },
 ]
