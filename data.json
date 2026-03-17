@@ -184,4 +184,14 @@
     "full": "System Engineer",
     "meaning": "システムエンジニア"
   },
+  {
+    "abbr": "FP",
+    "full": "Financial Planner",
+    "meaning": "ファイナンシャルプランナー"
+  },
+  {
+    "abbr": "UE",
+    "full": "Unreal Engine",
+    "meaning": "Unreal Engine"
+  },
 ]
