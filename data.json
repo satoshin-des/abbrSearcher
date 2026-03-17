@@ -104,4 +104,34 @@
     "full": "Hermitian Conjugate",
     "meaning": "Hermite共軛"
   },
+  {
+    "abbr": "GCD",
+    "full": "Greatest Common Divider",
+    "meaning": "最大公約元"
+  },
+  {
+    "abbr": "LCM",
+    "full": "Least Common Multipler",
+    "meaning": "最小公倍元"
+  },
+  {
+    "abbr": "R",
+    "full": "Ring",
+    "meaning": "環"
+  },
+  {
+    "abbr": "GSA",
+    "full": "Geometry Series Assumption",
+    "meaning": "幾何級数仮定"
+  },
+  {
+    "abbr": "GSO",
+    "full": "Gram-Schmidt Orthogonalization",
+    "meaning": "Gram-Schmidtの直交化"
+  },
+  {
+    "abbr": "GC",
+    "full": "GameCube",
+    "meaning": "ゲームキューブ"
+  },
 ]
