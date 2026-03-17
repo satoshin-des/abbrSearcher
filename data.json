@@ -52,6 +52,16 @@
   {
     "abbr": "GW",
     "full": "Golden Wind",
-    "meaning": "黄金の風"
+    "meaning": "ジョジョの奇妙な冒険　黄金の風"
+  },
+  {
+    "abbr": "DU",
+    "full": "Diamond is Unbreakable",
+    "meaning": "ジョジョの奇妙な冒険　ダイヤモンドは砕けない"
+  },
+  {
+    "abbr": "SO",
+    "full": "Stone Ocean",
+    "meaning": "ジョジョの奇妙な冒険　ストーンオーシャン"
   },
 ]
