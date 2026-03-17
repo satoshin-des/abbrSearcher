@@ -3,4 +3,40 @@
     "abbr": "ASAP",
     "full": "As Soon As Possible",
   },
+  {
+    "abbr": "DL",
+    "full": "download"
+  },
+  {
+    "abbr": "WC",
+    "full": "Water Closet"
+  },
+  {
+    "abbr": "GL",
+    "full": "General Linear group"
+  },
+  {
+    "abbr": "SL",
+    "full": "Special Linear group"
+  },
+  {
+    "abbr": "LLL",
+    "full": "Lenstra-Lenstr-Lovasz"
+  },
+  {
+    "abbr": "HKZ",
+    "full": "Hermite-Korkine-Zolotareff"
+  },
+  {
+    "abbr": "BKZ",
+    "full": "Blocked Korkine-Zolotareff"
+  },
+  {
+    "abbr": "KZ",
+    "full": "Korkine-Zolotareff"
+  },
+  {
+    "abbr": "M",
+    "full": "Matrix"
+  },
 ]
