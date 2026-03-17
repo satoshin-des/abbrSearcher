@@ -2,226 +2,291 @@
   {
     "abbr": "ASAP",
     "full": "As Soon As Possible",
-    "meaning": "できるだけ早く"
+    "keyword": "できるだけ早く"
   },
   {
     "abbr": "DL",
     "full": "download",
-    "meaning": "ダウンロード"
+    "keyword": "ダウンロード"
   },
   {
     "abbr": "WC",
     "full": "Water Closet",
-    "meaning": "トイレ"
+    "keyword": "トイレ"
   },
   {
     "abbr": "GL",
     "full": "General Linear group",
-    "meaning": "一般線型群"
+    "keyword": "一般線型群"
   },
   {
     "abbr": "SL",
     "full": "Special Linear group",
-    "meaning": "特殊線形群"
+    "keyword": "特殊線形群"
   },
   {
     "abbr": "LLL",
     "full": "Lenstra-Lenstr-Lovasz",
-    "meaning": "LLLアルゴリズム"
+    "keyword": "LLLアルゴリズム"
   },
   {
     "abbr": "HKZ",
     "full": "Hermite-Korkine-Zolotareff",
-    "meaning": "HKZアルゴリズム"
+    "keyword": "HKZアルゴリズム"
   },
   {
     "abbr": "BKZ",
     "full": "Blocked Korkine-Zolotareff",
-    "meaning": "BKZアルゴリズム"
+    "keyword": "BKZアルゴリズム"
   },
   {
     "abbr": "KZ",
     "full": "Korkine-Zolotareff",
-    "meaning": "HKZアルゴリズム"
+    "keyword": "HKZアルゴリズム"
   },
   {
     "abbr": "M",
     "full": "Matrix",
-    "meaning": "行列"
+    "keyword": "行列"
   },
   {
     "abbr": "GW",
     "full": "Golden Wind",
-    "meaning": "ジョジョの奇妙な冒険　黄金の風"
+    "keyword": "黄金の風"
   },
   {
     "abbr": "DU",
     "full": "Diamond is Unbreakable",
-    "meaning": "ジョジョの奇妙な冒険　ダイヤモンドは砕けない"
+    "keyword": "ダイヤモンドは砕けない"
   },
   {
     "abbr": "SO",
     "full": "Stone Ocean",
-    "meaning": "ジョジョの奇妙な冒険　ストーンオーシャン"
+    "keyword": "ストーンオーシャン"
   },
   {
     "abbr": "SBR",
     "full": "Steel Ball Run",
-    "meaning": "ジョジョの奇妙な冒険　スティールボールラン"
+    "keyword": "スティールボールラン"
   },
   {
     "abbr": "SF",
     "full": "Science Fiction",
-    "meaning": "SF"
+    "keyword": "SF"
   },
   {
     "abbr": "AM-GM",
     "full": "Arithmetic Mean Geometric Mean",
-    "meaning": "相加相乗平均（の不等式）"
+    "keyword": "相加相乗平均の不等式"
   },
   {
     "abbr": "AP",
     "full": "Arithmetic Progression",
-    "meaning": "等差数列"
+    "keyword": "等差数列"
   },
   {
     "abbr": "GP",
     "full": "Geometric Progression",
-    "meaning": "等比数列"
+    "keyword": "等比数列"
   },
   {
     "abbr": "P",
     "full": "Proposition",
-    "meaning": "命題"
+    "keyword": "命題"
   },
   {
     "abbr": "T",
     "full": "Theorem",
-    "meaning": "定理"
+    "keyword": "定理"
   },
   {
     "abbr": "HC",
-    "full": "Hermitian Conjugate",
-    "meaning": "Hermite共軛"
+    "full": "Hermitian conjugate",
+    "keyword": "エルミート共軛"
   },
   {
     "abbr": "GCD",
     "full": "Greatest Common Divider",
-    "meaning": "最大公約元"
+    "keyword": "最大公約元"
   },
   {
     "abbr": "LCM",
     "full": "Least Common Multipler",
-    "meaning": "最小公倍元"
+    "keyword": "最小公倍元"
   },
   {
     "abbr": "R",
     "full": "Ring",
-    "meaning": "環"
+    "keyword": "環 (数学)"
   },
   {
     "abbr": "GSA",
     "full": "Geometry Series Assumption",
-    "meaning": "幾何級数仮定"
+    "keyword": "幾何級数仮定"
   },
   {
     "abbr": "GSO",
     "full": "Gram-Schmidt Orthogonalization",
-    "meaning": "Gram-Schmidtの直交化"
+    "keyword": "グラム・シュミットの正規直交化法"
   },
   {
     "abbr": "GC",
     "full": "GameCube",
-    "meaning": "ゲームキューブ"
+    "keyword": "ゲームキューブ"
   },
   {
     "abbr": "TS",
     "full": "TypeScript",
-    "meaning": "TypeScript"
+    "keyword": "TypeScript"
   },
   {
     "abbr": "JS",
     "full": "JavaScript",
-    "meaning": "JavaScript"
+    "keyword": "JavaScript"
   },
   {
     "abbr": "MLLL",
     "full": "Modified Lenstra-Lenstr-Lovasz",
-    "meaning": "Modified LLLアルゴリズム"
+    "keyword": "Modified LLLアルゴリズム"
   },
   {
     "abbr": "SC",
     "full": "Stardust Crusaders",
-    "meaning": "ジョジョの奇妙な冒険　スターダストクルセイダース"
+    "keyword": "ジョジョの奇妙な冒険　スターダストクルセイダース"
   },
   {
     "abbr": "PS",
     "full": "PlayStation",
-    "meaning": "プレイステーション"
+    "keyword": "プレイステーション"
   },
   {
     "abbr": "JK",
     "full": "JapanKnowledge",
-    "meaning": "ジャパンナレッジ"
+    "keyword": "ジャパンナレッジ"
   },
   {
     "abbr": "NS",
     "full": "Nintendo Switch",
-    "meaning": "ニンテンドースイッチ"
+    "keyword": "ニンテンドースイッチ"
   },
   {
     "abbr": "OMG",
     "full": "Oh, My God",
-    "meaning": "オーマイガー"
+    "keyword": "オーマイガー"
   },
   {
     "abbr": "MJ",
     "full": "Matsumoto Jun",
-    "meaning": "松本潤"
+    "keyword": "松本潤"
   },
   {
     "abbr": "SE",
     "full": "System Engineer",
-    "meaning": "システムエンジニア"
+    "keyword": "システムエンジニア"
   },
   {
     "abbr": "FP",
     "full": "Financial Planner",
-    "meaning": "ファイナンシャルプランナー"
+    "keyword": "ファイナンシャルプランナー"
   },
   {
     "abbr": "UE",
     "full": "Unreal Engine",
-    "meaning": "Unreal Engine"
+    "keyword": "Unreal Engine"
   },
   {
     "abbr": "GER",
     "full": "Gold Experience Requiem",
-    "meaning": "ゴールド・エクスペリエンス・レクイエム"
+    "keyword": "ゴールド・エクスペリエンス・レクイエム"
   },
   {
     "abbr": "D4C",
     "full": "Dirty Deeds Done Dirt Cheap",
-    "meaning": "D4C"
+    "keyword": "D4C"
   },
   {
     "abbr": "WS",
     "full": "Work Shop",
-    "meaning": "ワークショップ"
+    "keyword": "ワークショップ"
   },
   {
     "abbr": "FPA",
     "full": "Float Point Arithmetic",
-    "meaning": "浮動小数点演算"
+    "keyword": "浮動小数点演算"
   },
   {
     "abbr": "HSP",
     "full": "Hot Soup Processor",
-    "meaning": "プログラミング言語の1つ"
+    "keyword": "Hot Soup Processor"
   },
   {
     "abbr": "SaaS",
     "full": "Software as a Service",
-    "meaning": "サービスとしてのソフトウェア"
+    "keyword": "SaaS"
+  },
+  {
+    "abbr": "JK",
+    "full": "Joshi Koukousei",
+    "keyword": "女子高生"
+  },
+  {
+    "abbr": "TOS",
+    "full": "Tama On Sen",
+    "keyword": "魂音泉"
+  },
+  {
+    "abbr": "GS",
+    "full": "Gram-Schmidt",
+    "keyword": "グラム・シュミットの正規直交化法"
+  },
+  {
+    "abbr": "NTL",
+    "full": "Number Theory Library",
+    "keyword": "Number Theory Library"
+  },
+  {
+    "abbr": "CC",
+    "full": "Creative Commons",
+    "keyword": "クリエイティブ・コモンズ"
+  },
+  {
+    "abbr": "YT",
+    "full": "YouTube",
+    "keyword": "YouTube"
+  },
+  {
+    "abbr": "DS",
+    "full": "Dual Screen",
+    "keyword": "ニンテンドーDS"
+  },
+  {
+    "abbr": "GBA",
+    "full": "Game Boy Advance",
+    "keyword": "ゲームボーイアドバンス"
+  },
+  {
+    "abbr": "www",
+    "full": "World Wide Web",
+    "keyword": "World Wide Web"
+  },
+  {
+    "abbr": "SCIS",
+    "full": "Symposium on Cryptography and Information Security",
+    "keyword": "暗号と情報セキュリティシンポジウム"
+  },
+  {
+    "abbr": "IWSEC",
+    "full": "International Workshop on Security",
+    "keyword": "International Workshop on Security"
+  },
+  {
+    "abbr": "CREST",
+    "full": "Core Research for Evolutionary Science and Technology",
+    "keyword": "戦略的創造研究推進事業"
+  },
+  {
+    "abbr": "AI",
+    "full": "Artificial Intelligence",
+    "keyword": "人工知能"
   }
 ]
