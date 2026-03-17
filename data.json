@@ -373,5 +373,10 @@
     "abbr": "DVS",
     "full": "Deathtopia Virtuoso Suicide-Master",
     "keyword": "デストピア・ビルトオソー・スアサイドマスター"
-  }
+  },
+  {
+    "abbr": "AGI",
+    "full": "Artificial General Intelligence",
+    "keyword": "汎用人工知能"
+  },
 ]
