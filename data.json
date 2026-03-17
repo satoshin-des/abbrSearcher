@@ -134,4 +134,19 @@
     "full": "GameCube",
     "meaning": "ゲームキューブ"
   },
+  {
+    "abbr": "TS",
+    "full": "TypeScript",
+    "meaning": "TypeScript"
+  },
+  {
+    "abbr": "JS",
+    "full": "JavaScript",
+    "meaning": "JavaScript"
+  },
+  {
+    "abbr": "MLLL",
+    "full": "Modified Lenstra-Lenstr-Lovasz",
+    "meaning": "Modified LLLアルゴリズム"
+  },
 ]
