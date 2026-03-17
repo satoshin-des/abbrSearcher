@@ -99,4 +99,9 @@
     "full": "Theorem",
     "meaning": "定理"
   },
+  {
+    "abbr": "HC",
+    "full": "Hermitian Conjugate",
+    "meaning": "Hermite共軛"
+  },
 ]
