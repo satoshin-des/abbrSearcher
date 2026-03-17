@@ -348,5 +348,10 @@
     "abbr": "PaaS",
     "full": "Platform as a Service",
     "keyword": "PaaS"
+  },
+  {
+    "abbr": "COVID",
+    "full": "Coronavirus disease",
+    "keyword": "コロナウイルス疾患"
   }
 ]
