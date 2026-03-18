@@ -543,5 +543,10 @@
     "abbr": "lms",
     "full": "learning management system",
     "keyword": "学習管理システム"
+  },
+  {
+    "abbr": "DDoS",
+    "full": "distributed denial of service attack",
+    "keyword": "分散型サービス妨害攻撃"
   }
 ]
