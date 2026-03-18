@@ -453,5 +453,10 @@
     "abbr": "ASMR",
     "full": "autonomous sensory meridian response",
     "keyword": "ASMR"
+  },
+  {
+    "abbr": "RTA",
+    "full": "real time attack",
+    "keyword": "リアルタイムアタック"
   }
 ]
