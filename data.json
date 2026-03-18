@@ -463,5 +463,10 @@
     "abbr": "SES",
     "full": "system engineering service",
     "keyword": "システムエンジニアリングサービス"
+  },
+  {
+    "abbr": "SIer",
+    "full": "system integrator",
+    "keyword": "システムインテグレーター"
   }
 ]
