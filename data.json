@@ -443,5 +443,10 @@
     "abbr": "SITA",
     "full": "Symposium on Information Theory and its Applications",
     "keyword": "情報理論とその応用シンポジウム"
+  },
+  {
+    "abbr": "NICT",
+    "full": "National Institute of Information and Communications Technology",
+    "keyword": "情報通信研究機構"
   }
 ]
