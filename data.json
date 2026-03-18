@@ -458,5 +458,10 @@
     "abbr": "RTA",
     "full": "real time attack",
     "keyword": "リアルタイムアタック"
+  },
+  {
+    "abbr": "SES",
+    "full": "system engineering service",
+    "keyword": "システムエンジニアリングサービス"
   }
 ]
