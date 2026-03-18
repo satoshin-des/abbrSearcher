@@ -518,5 +518,10 @@
     "abbr": "pK",
     "full": "proto-Koreanic",
     "keyword": "韓祖語"
+  },
+  {
+    "abbr": "IaaS",
+    "full": "infrastructure as a service",
+    "keyword": "IaaS"
   }
 ]
