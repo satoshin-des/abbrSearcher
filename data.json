@@ -548,5 +548,10 @@
     "abbr": "DDoS",
     "full": "distributed denial of service attack",
     "keyword": "分散型サービス妨害攻撃"
+  },
+  {
+    "abbr": "SS",
+    "full": "short story",
+    "keyword": "ショートストーリー"
   }
 ]
