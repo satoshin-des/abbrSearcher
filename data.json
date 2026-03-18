@@ -513,5 +513,10 @@
     "abbr": "pR",
     "full": "proto-Ryukuan",
     "keyword": "琉球祖語"
+  },
+  {
+    "abbr": "pK",
+    "full": "proto-Koreanic",
+    "keyword": "韓祖語"
   }
 ]
