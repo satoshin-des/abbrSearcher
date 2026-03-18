@@ -433,5 +433,10 @@
     "abbr": "UFD",
     "full": "unique factorization domain",
     "keyword": "一意分解整域"
+  },
+  {
+    "abbr": "PID",
+    "full": "principal ideal domain",
+    "keyword": "単項イデアル整域"
   }
 ]
