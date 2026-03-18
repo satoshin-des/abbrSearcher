@@ -378,5 +378,40 @@
     "abbr": "AGI",
     "full": "Artificial General Intelligence",
     "keyword": "汎用人工知能"
+  },
+  {
+    "abbr": "N64",
+    "full": "NINTENDO 64",
+    "keyword": "NINTENDO 64"
+  },
+  {
+    "abbr": "SD",
+    "full": "self dual",
+    "keyword": "自己双対"
+  },
+  {
+    "abbr": "D",
+    "full": "dual",
+    "keyword": "双対"
+  },
+  {
+    "abbr": "SDBKZ",
+    "full": "self dual Block Korkine-Zolotareff",
+    "keyword": "自己双対型BKZアルゴリズム"
+  },
+  {
+    "abbr": "PQC",
+    "full": "post-quantum cryptosystem",
+    "keyword": "耐量子計算機暗号"
+  },
+  {
+    "abbr": "UFO",
+    "full": "undefined flying object",
+    "keyword": "未確認飛行体"
+  },
+  {
+    "abbr": "CM",
+    "full": "commercial message",
+    "keyword": "CM"
   }
 ]
