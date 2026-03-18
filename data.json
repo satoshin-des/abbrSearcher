@@ -508,5 +508,10 @@
     "abbr": "EOJ",
     "full": "eastern old japanese",
     "keyword": "上代東国方言"
+  },
+  {
+    "abbr": "pR",
+    "full": "proto-Ryukuan",
+    "keyword": "琉球祖語"
   }
 ]
