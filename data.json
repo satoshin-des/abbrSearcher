@@ -438,5 +438,10 @@
     "abbr": "PID",
     "full": "principal ideal domain",
     "keyword": "単項イデアル整域"
+  },
+  {
+    "abbr": "SITA",
+    "full": "Symposium on Information Theory and its Applications",
+    "keyword": "情報理論とその応用シンポジウム"
   }
 ]
