@@ -533,5 +533,10 @@
     "abbr": "IT",
     "full": "information technology",
     "keyword": "情報技術"
+  },
+  {
+    "abbr": "sass",
+    "full": "syntactically awesome style sheets",
+    "keyword": ""
   }
 ]
