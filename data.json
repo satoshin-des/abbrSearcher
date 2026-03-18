@@ -1,8 +1,8 @@
 [
   {
     "abbr": "ASAP",
-    "full": "As Soon As Possible",
-    "keyword": "できるだけ早く"
+    "full": "as soon as possible",
+    "keyword": "なるはや"
   },
   {
     "abbr": "DL",
@@ -11,42 +11,42 @@
   },
   {
     "abbr": "WC",
-    "full": "Water Closet",
+    "full": "water closet",
     "keyword": "トイレ"
   },
   {
     "abbr": "GL",
-    "full": "General Linear group",
+    "full": "general linear group",
     "keyword": "一般線型群"
   },
   {
     "abbr": "SL",
-    "full": "Special Linear group",
+    "full": "special linear group",
     "keyword": "特殊線形群"
   },
   {
     "abbr": "LLL",
-    "full": "Lenstra-Lenstr-Lovasz",
+    "full": "Lenstra-Lenstr-Lovasz lattice basis reduction",
     "keyword": "LLLアルゴリズム"
   },
   {
     "abbr": "HKZ",
-    "full": "Hermite-Korkine-Zolotareff",
+    "full": "Hermite-Korkine-Zolotareff lattice basis reduction",
     "keyword": "HKZアルゴリズム"
   },
   {
     "abbr": "BKZ",
-    "full": "Blocked Korkine-Zolotareff",
+    "full": "Blocked Korkine-Zolotareff lattice basis reduction",
     "keyword": "BKZアルゴリズム"
   },
   {
     "abbr": "KZ",
-    "full": "Korkine-Zolotareff",
+    "full": "Korkine-Zolotareff lattice basis reduction",
     "keyword": "HKZアルゴリズム"
   },
   {
     "abbr": "M",
-    "full": "Matrix",
+    "full": "matrix",
     "keyword": "行列"
   },
   {
@@ -71,32 +71,32 @@
   },
   {
     "abbr": "SF",
-    "full": "Science Fiction",
+    "full": "science fiction",
     "keyword": "SF"
   },
   {
     "abbr": "AM-GM",
-    "full": "Arithmetic Mean Geometric Mean",
+    "full": "arithmetic mean geometric mean",
     "keyword": "相加相乗平均の不等式"
   },
   {
     "abbr": "AP",
-    "full": "Arithmetic Progression",
+    "full": "arithmetic progression",
     "keyword": "等差数列"
   },
   {
     "abbr": "GP",
-    "full": "Geometric Progression",
+    "full": "geometric progression",
     "keyword": "等比数列"
   },
   {
     "abbr": "P",
-    "full": "Proposition",
+    "full": "proposition",
     "keyword": "命題"
   },
   {
     "abbr": "T",
-    "full": "Theorem",
+    "full": "theorem",
     "keyword": "定理"
   },
   {
@@ -106,27 +106,27 @@
   },
   {
     "abbr": "GCD",
-    "full": "Greatest Common Divider",
-    "keyword": "最大公約元"
+    "full": "greatest common divider",
+    "keyword": "最大公約数"
   },
   {
     "abbr": "LCM",
-    "full": "Least Common Multipler",
-    "keyword": "最小公倍元"
+    "full": "least common multipler",
+    "keyword": "最小公倍数"
   },
   {
     "abbr": "R",
-    "full": "Ring",
+    "full": "ring",
     "keyword": "環 (数学)"
   },
   {
     "abbr": "GSA",
-    "full": "Geometry Series Assumption",
+    "full": "geometry series assumption",
     "keyword": "幾何級数仮定"
   },
   {
     "abbr": "GSO",
-    "full": "Gram-Schmidt Orthogonalization",
+    "full": "Gram-Schmidt orthogonalization",
     "keyword": "グラム・シュミットの正規直交化法"
   },
   {
@@ -181,12 +181,12 @@
   },
   {
     "abbr": "SE",
-    "full": "System Engineer",
+    "full": "system engineer",
     "keyword": "システムエンジニア"
   },
   {
     "abbr": "FP",
-    "full": "Financial Planner",
+    "full": "financial planner",
     "keyword": "ファイナンシャルプランナー"
   },
   {
@@ -206,12 +206,12 @@
   },
   {
     "abbr": "WS",
-    "full": "Work Shop",
+    "full": "work shop",
     "keyword": "ワークショップ"
   },
   {
     "abbr": "FPA",
-    "full": "Float Point Arithmetic",
+    "full": "float point arithmetic",
     "keyword": "浮動小数点演算"
   },
   {
@@ -226,7 +226,7 @@
   },
   {
     "abbr": "JK",
-    "full": "Joshi Koukousei",
+    "full": "joshi kousei",
     "keyword": "女子高生"
   },
   {
@@ -236,7 +236,7 @@
   },
   {
     "abbr": "GS",
-    "full": "Gram-Schmidt",
+    "full": "Gram-Schmidt orthogonalization",
     "keyword": "グラム・シュミットの正規直交化法"
   },
   {
@@ -286,7 +286,7 @@
   },
   {
     "abbr": "AI",
-    "full": "Artificial Intelligence",
+    "full": "artificial intelligence",
     "keyword": "人工知能"
   },
   {
@@ -316,7 +316,7 @@
   },
   {
     "abbr": "MVR",
-    "full": "Mid Vowel Raising",
+    "full": "mid vowel raising",
     "keyword": "中段母音上昇"
   },
   {
@@ -331,17 +331,17 @@
   },
   {
     "abbr": "GH",
-    "full": "Gaussian Heuristic",
+    "full": "Gaussian heuristic",
     "keyword": "ガウスのヒューリスティック"
   },
   {
     "abbr": "SVP",
-    "full": "Shortest Vector Problem",
+    "full": "shortest vector problem",
     "keyword": "最短ベクトル問題"
   },
   {
     "abbr": "OJ",
-    "full": "Old Japanese",
+    "full": "old Japanese",
     "keyword": "中古日本語"
   },
   {
@@ -366,7 +366,7 @@
   },
   {
     "abbr": "CVP",
-    "full": "Closest Vector Problem",
+    "full": "closest vector problem",
     "keyword": ""
   },
   {
@@ -376,7 +376,7 @@
   },
   {
     "abbr": "AGI",
-    "full": "Artificial General Intelligence",
+    "full": "artificial general intelligence",
     "keyword": "汎用人工知能"
   },
   {
@@ -401,7 +401,7 @@
   },
   {
     "abbr": "PQC",
-    "full": "post-quantum cryptosystem",
+    "full": "post-quantum cryptography",
     "keyword": "耐量子計算機暗号"
   },
   {
