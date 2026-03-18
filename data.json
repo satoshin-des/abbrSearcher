@@ -538,5 +538,10 @@
     "abbr": "sass",
     "full": "syntactically awesome style sheets",
     "keyword": ""
+  },
+  {
+    "abbr": "lms",
+    "full": "learning management system",
+    "keyword": "学習管理システム"
   }
 ]
