@@ -428,5 +428,10 @@
     "abbr": "UOV",
     "full": "unbalanced oil and vinegar scheme",
     "keyword": "Unbalanced oil and vinegar scheme"
+  },
+  {
+    "abbr": "UFD",
+    "full": "unique factorization domain",
+    "keyword": "一意分解整域"
   }
 ]
