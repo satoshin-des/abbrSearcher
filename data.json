@@ -418,5 +418,10 @@
     "abbr": "IoT",
     "full": "internet of thing",
     "keyword": "モノのインターネット"
+  },
+  {
+    "abbr": "OL",
+    "full": "office lady",
+    "keyword": "OL"
   }
 ]
