@@ -473,5 +473,20 @@
     "abbr": "EEZ",
     "full": "Exclusive Economic Zone",
     "keyword": "排他的経済水域"
+  },
+  {
+    "abbr": "JS",
+    "full": "Joshi Shogakuse",
+    "keyword": "女子小学生"
+  },
+  {
+    "abbr": "JC",
+    "full": "Joshi Chugakuse",
+    "keyword": "女子中学生"
+  },
+  {
+    "abbr": "JD",
+    "full": ""Joshi Daise,
+    "keyword": "女子大生"
   }
 ]
