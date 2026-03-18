@@ -413,5 +413,10 @@
     "abbr": "CM",
     "full": "commercial message",
     "keyword": "CM"
+  },
+  {
+    "abbr": "IoT",
+    "full": "internet of thing",
+    "keyword": "モノのインターネット"
   }
 ]
