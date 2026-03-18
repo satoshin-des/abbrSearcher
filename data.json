@@ -468,5 +468,10 @@
     "abbr": "SIer",
     "full": "system integrator",
     "keyword": "システムインテグレーター"
+  },
+  {
+    "abbr": "EEZ",
+    "full": "Exclusive Economic Zone",
+    "keyword": "排他的経済水域"
   }
 ]
