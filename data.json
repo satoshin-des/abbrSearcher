@@ -528,5 +528,10 @@
     "abbr": "MaaS",
     "full": "mobility as a service",
     "keyword": "MaaS"
+  },
+  {
+    "abbr": "IT",
+    "full": "information technology",
+    "keyword": "情報技術"
   }
 ]
