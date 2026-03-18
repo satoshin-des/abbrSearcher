@@ -523,5 +523,10 @@
     "abbr": "IaaS",
     "full": "infrastructure as a service",
     "keyword": "IaaS"
+  },
+  {
+    "abbr": "MaaS",
+    "full": "mobility as a service",
+    "keyword": "MaaS"
   }
 ]
