@@ -498,5 +498,10 @@
     "abbr": "f/m",
     "full": "female/male",
     "keyword": "f/m"
+  },
+  {
+    "abbr": "BL",
+    "full": "boys love",
+    "keyword": "ボーイズラブ"
   }
 ]
