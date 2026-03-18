@@ -471,7 +471,7 @@
   },
   {
     "abbr": "EEZ",
-    "full": "Exclusive Economic Zone",
+    "full": "exclusive economic zone",
     "keyword": "排他的経済水域"
   },
   {
@@ -488,5 +488,10 @@
     "abbr": "JD",
     "full": ""Joshi Daise,
     "keyword": "女子大生"
+  },
+  {
+    "abbr": "TSF",
+    "full": "transsexual fiction",
+    "keyword": "TSF (ジャンル)"
   }
 ]
