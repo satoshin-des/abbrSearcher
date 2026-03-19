@@ -628,5 +628,10 @@
     "abbr": "Suica",
     "full": "super urban intelligent card",
     "keyword": "Suica"
+  },
+  {
+    "abbr": "radar",
+    "full": "radio detecting and ranging",
+    "keyword": "レーダー"
   }
 ]
