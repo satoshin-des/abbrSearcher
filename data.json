@@ -633,5 +633,10 @@
     "abbr": "radar",
     "full": "radio detecting and ranging",
     "keyword": "レーダー"
+  },
+  {
+    "abbr": "VaaS",
+    "full": "voice as a service",
+    "keyword": "Voice as a Service"
   }
 ]
