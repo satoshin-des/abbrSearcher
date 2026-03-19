@@ -623,5 +623,10 @@
     "abbr": "R&D",
     "full": "research and development",
     "keyword": "研究開発"
+  },
+  {
+    "abbr": "Suica",
+    "full": "super urban intelligent card",
+    "keyword": "Suica"
   }
 ]
