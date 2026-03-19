@@ -618,5 +618,10 @@
     "abbr": "DH",
     "full": "designated hitter",
     "keyword": "指名打者"
+  },
+  {
+    "abbr": "R&D",
+    "full": "research and development",
+    "keyword": "研究開発"
   }
 ]
