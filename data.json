@@ -608,5 +608,10 @@
     "abbr": "PhD",
     "full": "doctor of philosophy",
     "keyword": "Doctor of Philosophy"
+  },
+  {
+    "abbr": "LED",
+    "full": "light-emitting diode",
+    "keyword": "発光ダイオード"
   }
 ]
