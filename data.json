@@ -613,5 +613,10 @@
     "abbr": "LED",
     "full": "light-emitting diode",
     "keyword": "発光ダイオード"
+  },
+  {
+    "abbr": "DH",
+    "full": "designated hitter",
+    "keyword": "指名打者"
   }
 ]
