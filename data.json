@@ -553,5 +553,50 @@
     "abbr": "SS",
     "full": "short story",
     "keyword": "ショートストーリー"
+  },
+  {
+    "abbr": "JPCZ",
+    "full": "Japan sea polar air mass convergence zone",
+    "keyword": "日本海寒帯気団収束帯"
+  },
+  {
+    "abbr": "UAE",
+    "full": "United Arab Emirates",
+    "keyword": "アラブ首長国連邦"
+  },
+  {
+    "abbr": "TA",
+    "full": "teaching assistant",
+    "keyword": "ティーチングアシスタント"
+  },
+  {
+    "abbr": "RA",
+    "full": "research assistant",
+    "keyword": "リサーチアシスタント"
+  },
+  {
+    "abbr": "SA",
+    "full": "service assistant",
+    "keyword": "サービスアシスタント"
+  },
+  {
+    "abbr": "SW",
+    "full": "software",
+    "keyword": "ソフトウェア"
+  },
+  {
+    "abbr": "HTB",
+    "full": "Hokkaido Television Broadcasting Co.,Ltd.",
+    "keyword": "北海道テレビ放送株式会社"
+  },
+  {
+    "abbr": "tvk",
+    "full": "Television KANAGAWA, Inc.",
+    "keyword": "株式会社テレビ神奈川"
+  },
+  {
+    "abbr": "LTS",
+    "full": "long term support",
+    "keyword": "長期サポート"
   }
 ]
