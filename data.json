@@ -603,5 +603,10 @@
     "abbr": "Sp",
     "full": "symplectic group",
     "keyword": "シンプレクティック群"
+  },
+  {
+    "abbr": "PhD",
+    "full": "doctor of philosophy",
+    "keyword": "Doctor of Philosophy"
   }
 ]
