@@ -598,5 +598,10 @@
     "abbr": "LTS",
     "full": "long term support",
     "keyword": "長期サポート"
+  },
+  {
+    "abbr": "Sp",
+    "full": "symplectic group",
+    "keyword": "シンプレクティック群"
   }
 ]
