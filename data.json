@@ -678,5 +678,10 @@
     "abbr": "SSP",
     "full": "subset sum problem",
     "keyword": "部分和問題"
+  },
+  {
+    "abbr": "GNU",
+    "full": "GNU's Not Unix!",
+    "keyword": "GNU"
   }
 ]
