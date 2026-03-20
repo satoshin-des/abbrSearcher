@@ -688,5 +688,10 @@
     "abbr": "AWS",
     "full": "Amazon Web Services",
     "keyword": "Amazon Web Services"
+  },
+  {
+    "abbr": "LoRA",
+    "full": "low-rank adaptation",
+    "keyword": "LoRA"
   }
 ]
