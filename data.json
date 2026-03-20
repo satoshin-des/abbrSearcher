@@ -648,5 +648,10 @@
     "abbr": "PTSD",
     "full": "post-traumatic stress disorder",
     "keyword": "心的外傷後ストレス障害"
+  },
+  {
+    "abbr": "ASD",
+    "full": "autism spectrum disorder",
+    "keyword": "自閉スペクトラム症"
   }
 ]
