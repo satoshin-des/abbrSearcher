@@ -669,10 +669,14 @@
     "full": "quod erat demonstrandum",
     "keyword": "証明終了"
   },
-
   {
     "abbr": "SV",
     "full": "Synthesizer V",
     "keyword": "Synthesizer V"
+  },
+  {
+    "abbr": "SSP",
+    "full": "subset sum problem",
+    "keyword": "部分和問題"
   }
 ]
