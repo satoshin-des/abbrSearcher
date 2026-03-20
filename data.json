@@ -653,5 +653,10 @@
     "abbr": "ASD",
     "full": "autism spectrum disorder",
     "keyword": "自閉スペクトラム症"
+  },
+  {
+    "abbr": "OJT",
+    "full": "on-the-job training",
+    "keyword": "現任訓練"
   }
 ]
