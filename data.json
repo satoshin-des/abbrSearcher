@@ -693,5 +693,10 @@
     "abbr": "LoRA",
     "full": "low-rank adaptation",
     "keyword": "LoRA"
+  },
+  {
+    "abbr": "EoH",
+    "full": "Eyes of Heaven",
+    "keyword": "ジョジョの奇妙な冒険 アイズオブヘブン"
   }
 ]
