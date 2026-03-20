@@ -643,5 +643,10 @@
     "abbr": "pA",
     "full": "proto-Ainu",
     "keyword": "アイヌ祖語"
+  },
+  {
+    "abbr": "PTSD",
+    "full": "post-traumatic stress disorder",
+    "keyword": "心的外傷後ストレス障害"
   }
 ]
