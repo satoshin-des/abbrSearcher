@@ -663,5 +663,10 @@
     "abbr": "wwwww",
     "full": "which was what we wanted",
     "keyword": "証明終了"
+  },
+  {
+    "abbr": "QED",
+    "full": "quod erat demonstrandum",
+    "keyword": "証明終了"
   }
 ]
