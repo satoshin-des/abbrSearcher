@@ -708,5 +708,10 @@
     "abbr": "ADHD",
     "full": "attention deficit hyperactivity disorder",
     "keyword": "注意欠如多動症"
+  },
+  {
+    "abbr": "DLC",
+    "full": "download contents",
+    "keyword": "ダウンロードコンテンツ"
   }
 ]
