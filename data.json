@@ -728,5 +728,10 @@
     "abbr": "WLOG",
     "full": "without loss of generality",
     "keyword": "一般性を失わない"
+  },
+  {
+    "abbr": "i.e.",
+    "full": "id est",
+    "keyword": "即ち"
   }
 ]
