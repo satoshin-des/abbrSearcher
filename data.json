@@ -768,5 +768,15 @@
     "abbr": "VSSP",
     "full": "small vector sum problem",
     "keyword": "VSSP"
+  },
+  {
+    "abbr": "LWE",
+    "full": "learning with errors",
+    "keyword": "LWE問題"
+  },
+  {
+    "abbr": "BDD",
+    "full": "bounded distance decoding",
+    "keyword": "BDD問題"
   }
 ]
