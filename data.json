@@ -713,5 +713,10 @@
     "abbr": "DLC",
     "full": "download contents",
     "keyword": "ダウンロードコンテンツ"
+  },
+  {
+    "abbr": "HTT",
+    "full": "Houkago Tea Time",
+    "keyword": "放課後ティータイム"
   }
 ]
