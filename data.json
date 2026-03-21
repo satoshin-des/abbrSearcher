@@ -733,5 +733,10 @@
     "abbr": "i.e.",
     "full": "id est",
     "keyword": "即ち"
+  },
+  {
+    "abbr": "e.g.",
+    "full": "exempli gratia",
+    "keyword": "例えば"
   }
 ]
