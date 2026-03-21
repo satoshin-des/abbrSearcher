@@ -718,5 +718,10 @@
     "abbr": "HTT",
     "full": "Houkago Tea Time",
     "keyword": "放課後ティータイム"
+  },
+  {
+    "abbr": "JR",
+    "full": "Japan Railways",
+    "keyword": "JR"
   }
 ]
