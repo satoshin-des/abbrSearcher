@@ -738,5 +738,15 @@
     "abbr": "e.g.",
     "full": "exempli gratia",
     "keyword": "例えば"
+  },
+  {
+    "abbr": "CF",
+    "full": "Cholesky factorization",
+    "keyword": "コレスキー分解"
+  },
+  {
+    "abbr": "CFA",
+    "full": "Cholesky factorization algorithm",
+    "keyword": "コレスキー分解"
   }
 ]
