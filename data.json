@@ -763,5 +763,10 @@
     "abbr": "L.L.",
     "full": "Lelouch Lamperouge",
     "keyword": "ルルーシュ・ランペルージ"
+  },
+  {
+    "abbr": "VSSP",
+    "full": "small vector sum problem",
+    "keyword": "VSSP"
   }
 ]
