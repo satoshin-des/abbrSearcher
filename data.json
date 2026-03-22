@@ -833,5 +833,10 @@
     "abbr": "psp",
     "full": "pseudo-prime",
     "keyword": "擬素数"
+  },
+  {
+    "abbr": "GS",
+    "full": "Golden SixTONES",
+    "keyword": "Golden SixTONES"
   }
 ]
