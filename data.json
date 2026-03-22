@@ -788,5 +788,10 @@
     "abbr": "IT",
     "full": "internet technique",
     "keyword": "あずまんが大王"
+  },
+  {
+    "abbr": "CSS",
+    "full": "Computer Security Symposium",
+    "keyword": "コンピュータセキュリティシンポジウム"
   }
 ]
