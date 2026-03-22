@@ -818,5 +818,10 @@
     "abbr": "TM",
     "full": "Turing machine",
     "keyword": "チューリングマシン"
+  },
+  {
+    "abbr": "LA",
+    "full": "linear algebra",
+    "keyword": "線型代数"
   }
 ]
