@@ -803,5 +803,20 @@
     "abbr": "DX",
     "full": "digital transformation",
     "keyword": "デジタルトランスフォーメーション"
+  },
+  {
+    "abbr": "rhs",
+    "full": "right-hand side",
+    "keyword": "右辺"
+  },
+  {
+    "abbr": "lhs",
+    "full": "left-hand side",
+    "keyword": "左辺"
+  },
+  {
+    "abbr": "TM",
+    "full": "Turing machine",
+    "keyword": "チューリングマシン"
   }
 ]
