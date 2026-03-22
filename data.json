@@ -823,5 +823,10 @@
     "abbr": "LA",
     "full": "linear algebra",
     "keyword": "線型代数"
+  },
+  {
+    "abbr": "HBD",
+    "full": "happy birthday",
+    "keyword": "誕生日おめでとう"
   }
 ]
