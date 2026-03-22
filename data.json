@@ -778,5 +778,15 @@
     "abbr": "BDD",
     "full": "bounded distance decoding",
     "keyword": "BDD問題"
+  },
+  {
+    "abbr": "ICT",
+    "full": "information and communications technology",
+    "keyword": "情報通信技術"
+  },
+  {
+    "abbr": "IT",
+    "full": "internet technique",
+    "keyword": "あずまんが大王"
   }
 ]
