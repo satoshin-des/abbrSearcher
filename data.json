@@ -828,5 +828,10 @@
     "abbr": "HBD",
     "full": "happy birthday",
     "keyword": "誕生日おめでとう"
+  },
+  {
+    "abbr": "psp",
+    "full": "pseudo-prime",
+    "keyword": "擬素数"
   }
 ]
