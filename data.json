@@ -843,5 +843,10 @@
     "abbr": "pT",
     "full": "proto-Tungus",
     "keyword": "ツングース祖語"
+  },
+  {
+    "abbr": "SDK",
+    "full": "software development kit",
+    "keyword": "ソフトウェア開発キット"
   }
 ]
