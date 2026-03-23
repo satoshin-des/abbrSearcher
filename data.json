@@ -848,5 +848,10 @@
     "abbr": "SDK",
     "full": "software development kit",
     "keyword": "ソフトウェア開発キット"
+  },
+  {
+    "abbr": "usr",
+    "full": "Unix system resource",
+    "keyword": "Unix System Resource"
   }
 ]
