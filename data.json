@@ -853,5 +853,10 @@
     "abbr": "usr",
     "full": "Unix system resource",
     "keyword": "Unix System Resource"
+  },
+  {
+    "abbr": "OAD",
+    "full": "original animation disc",
+    "keyword": "オリジナルアニメーションディスク"
   }
 ]
