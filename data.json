@@ -888,5 +888,10 @@
     "abbr": "iPS",
     "full": "induced pluripotent stem cells",
     "keyword": "人工多能性幹細胞"
+  },
+  {
+    "abbr": "HPV",
+    "full": "human papillomavirus",
+    "keyword": "ヒトパピローマウイルス"
   }
 ]
