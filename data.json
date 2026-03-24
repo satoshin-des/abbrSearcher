@@ -873,5 +873,10 @@
     "abbr": "OK",
     "full": "old Korean",
     "keyword": "古代朝鮮語"
+  },
+  {
+    "abbr": "pJK",
+    "full": "proto-Japonic-Koreanic",
+    "keyword": "日韓祖語"
   }
 ]
