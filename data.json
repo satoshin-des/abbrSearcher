@@ -858,5 +858,10 @@
     "abbr": "OAD",
     "full": "original animation disc",
     "keyword": "オリジナルアニメーションディスク"
+  },
+  {
+    "abbr": "SPI",
+    "full": "synthetic personality inventory",
+    "keyword": "SPI総合検査"
   }
 ]
