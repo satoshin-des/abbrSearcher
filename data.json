@@ -893,5 +893,10 @@
     "abbr": "HPV",
     "full": "human papillomavirus",
     "keyword": "ヒトパピローマウイルス"
+  },
+  {
+    "abbr": "Sage",
+    "full": "System for Algebra and Geometry Experimentation",
+    "keyword": "SageMath"
   }
 ]
