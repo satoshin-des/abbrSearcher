@@ -863,5 +863,10 @@
     "abbr": "SPI",
     "full": "synthetic personality inventory",
     "keyword": "SPI総合検査"
+  },
+  {
+    "abbr": "MK",
+    "full": "middle Korean",
+    "keyword": "中期朝鮮語"
   }
 ]
