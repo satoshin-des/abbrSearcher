@@ -878,5 +878,10 @@
     "abbr": "pJK",
     "full": "proto-Japonic-Koreanic",
     "keyword": "日韓祖語"
+  },
+  {
+    "abbr": "STAP",
+    "full": "stimulus-triggered acquisition of pluripotency cells",
+    "keyword": "刺激惹起性多能性獲得細胞"
   }
 ]
