@@ -868,5 +868,10 @@
     "abbr": "MK",
     "full": "middle Korean",
     "keyword": "中期朝鮮語"
+  },
+  {
+    "abbr": "OK",
+    "full": "old Korean",
+    "keyword": "古代朝鮮語"
   }
 ]
