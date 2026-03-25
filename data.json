@@ -898,5 +898,10 @@
     "abbr": "Sage",
     "full": "System for Algebra and Geometry Experimentation",
     "keyword": "SageMath"
+  },
+  {
+    "abbr": "ROM",
+    "full": "read only memory",
+    "keyword": "Read only memory"
   }
 ]
